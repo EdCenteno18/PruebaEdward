@@ -1,0 +1,8 @@
+C:\Users\Edward\Desktop\PG.LST.PSC.TSVACANCY\VACANCY\bin\PG.LST.PSC.TSVACANCY.dll.config
+C:\Users\Edward\Desktop\PG.LST.PSC.TSVACANCY\VACANCY\bin\PG.LST.PSC.TSVACANCY.dll
+C:\Users\Edward\Desktop\PG.LST.PSC.TSVACANCY\VACANCY\bin\PG.LST.PSC.TSVACANCY.pdb
+C:\Users\Edward\Desktop\PG.LST.PSC.TSVACANCY\VACANCY\bin\DocumentFormat.OpenXml.dll
+C:\Users\Edward\Desktop\PG.LST.PSC.TSVACANCY\VACANCY\bin\DocumentFormat.OpenXml.xml
+C:\Users\Edward\Desktop\PG.LST.PSC.TSVACANCY\VACANCY\obj\Debug\PG.LST.PSC.TSVACANCY.csprojResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\PG.LST.PSC.TSVACANCY\VACANCY\obj\Debug\PG.LST.PSC.TSVACANCY.dll
+C:\Users\Edward\Desktop\PG.LST.PSC.TSVACANCY\VACANCY\obj\Debug\PG.LST.PSC.TSVACANCY.pdb

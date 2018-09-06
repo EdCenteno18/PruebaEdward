@@ -1,0 +1,21 @@
+{
+  "name": "myGulpBoilerplate",
+  "description": "",
+  "main": "gulpfile.babel.js",
+  "authors": [
+    "kikeestrada <kikeestrada@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kikeestrada/myGulpBoilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "imagehover.css": "*",
+    "hover": "^2.1.1"
+  }
+}
